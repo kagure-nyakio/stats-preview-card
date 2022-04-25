@@ -93,7 +93,7 @@ h1 {
 
 .img-container {
   background-color: var(--accent-clr);
-  mix-blend-mode: luminosity;
+  mix-blend-mode: overlay;
 }
 
 /* MEDIA QUERIES */
